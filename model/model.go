@@ -44,7 +44,7 @@ type MetaObject struct {
 	ObjectName                  string     `json:"objectName" bson:"objectName"`
 	LastModifiedDate            *time.Time `type:"timestamp" json:"lastModifiedDate" bson:"lastModifiedDate"`
 	Size                        int64      `json:"size" bson:"size"`
-	ServerSideEncryption        string     `json:"serverSideEncryptionEnabled" bson:"serverSideEncryptionEnabled"`
+	ServerSideEncryption        string     `json:"serverSideEncryption" bson:"serverSideEncryption"`
 	VersionId                   string     `json:"versionId,omitempty" bson:"versionId,omitempty"`
 	StorageClass                string     `json:"storageClass,omitempty" bson:"storageClass,omitempty"`
 	RedirectLocation            string     `json:"redirectLocation,omitempty" bson:"redirectLocation,omitempty"`

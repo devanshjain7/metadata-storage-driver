@@ -15,7 +15,7 @@
             "objectName": "3mb SVG.svg",
             "lastModifiedDate": "2022-12-20T12:49:14Z",
             "size": 3147834,
-            "serverSideEncryptionEnabled": "",
+            "serverSideEncryption": "",
             "storageClass": "STANDARD",
             "objectType": "binary/octet-stream"
          },
@@ -23,7 +23,7 @@
             "objectName": "3mb-SVG.svg",
             "lastModifiedDate": "2022-12-20T12:29:50Z",
             "size": 3147834,
-            "serverSideEncryptionEnabled": "",
+            "serverSideEncryption": "",
             "storageClass": "STANDARD",
             "objectType": "binary/octet-stream"
          },
@@ -31,7 +31,7 @@
             "objectName": "test/3mb-SVG.svg",
             "lastModifiedDate": "2022-12-20T12:29:50Z",
             "size": 3147834,
-            "serverSideEncryptionEnabled": "",
+            "serverSideEncryption": "",
             "storageClass": "STANDARD",
             "objectType": "binary/octet-stream"
          }
@@ -48,7 +48,7 @@
             "objectName": "SODA-Booth-Quiz-Questions-Template.csv",
             "lastModifiedDate": "2022-11-26T06:26:41Z",
             "size": 83,
-            "serverSideEncryptionEnabled": "",
+            "serverSideEncryption": "",
             "storageClass": "STANDARD",
             "objectType": "binary/octet-stream"
          },
@@ -56,7 +56,7 @@
             "objectName": "sublime-merge_build-2079_amd64.deb",
             "lastModifiedDate": "2022-11-26T06:32:27Z",
             "size": 4887276,
-            "serverSideEncryptionEnabled": "",
+            "serverSideEncryption": "",
             "storageClass": "STANDARD",
             "objectType": "binary/octet-stream"
          }
@@ -73,7 +73,7 @@
             "objectName": "a1.txt",
             "lastModifiedDate": "2022-11-25T08:54:56Z",
             "size": 0,
-            "serverSideEncryptionEnabled": "",
+            "serverSideEncryption": "",
             "storageClass": "GLACIER",
             "objectType": "binary/octet-stream"
          },
@@ -81,7 +81,7 @@
             "objectName": "nohup.out",
             "lastModifiedDate": "2022-11-25T08:51:07Z",
             "size": 654,
-            "serverSideEncryptionEnabled": "",
+            "serverSideEncryption": "",
             "storageClass": "STANDARD",
             "objectType": "binary/octet-stream"
          }
@@ -98,7 +98,7 @@
             "objectName": "AK_SK",
             "lastModifiedDate": "2022-12-20T13:18:37Z",
             "size": 77,
-            "serverSideEncryptionEnabled": "",
+            "serverSideEncryption": "",
             "storageClass": "GLACIER",
             "objectType": "binary/octet-stream"
          }
@@ -115,7 +115,7 @@
             "objectName": "1-MB-DOC.doc",
             "lastModifiedDate": "2023-01-06T11:28:58Z",
             "size": 1048576,
-            "serverSideEncryptionEnabled": "AES256",
+            "serverSideEncryption": "AES256",
             "storageClass": "STANDARD",
             "objectType": "binary/octet-stream"
          },
@@ -123,7 +123,7 @@
             "objectName": "3mb-SVG.svg",
             "lastModifiedDate": "2022-11-25T18:09:53Z",
             "size": 3147834,
-            "serverSideEncryptionEnabled": "",
+            "serverSideEncryption": "",
             "storageClass": "STANDARD",
             "objectType": "binary/octet-stream"
          },
@@ -131,7 +131,7 @@
             "objectName": "pkpadmin,+174-1124-1-CE.pdf",
             "lastModifiedDate": "2022-11-25T18:09:53Z",
             "size": 4293938,
-            "serverSideEncryptionEnabled": "",
+            "serverSideEncryption": "",
             "storageClass": "STANDARD",
             "objectType": "binary/octet-stream"
          }
@@ -151,7 +151,7 @@
             "objectName": "1-MB-DOC.doc",
             "lastModifiedDate": "2022-11-23T11:50:29Z",
             "size": 1048576,
-            "serverSideEncryptionEnabled": "",
+            "serverSideEncryption": "",
             "storageClass": "STANDARD",
             "objectType": "application/msword"
          },
@@ -159,7 +159,7 @@
             "objectName": "DelfinDemo1.mp4",
             "lastModifiedDate": "2022-11-22T03:34:54Z",
             "size": 12279129,
-            "serverSideEncryptionEnabled": "",
+            "serverSideEncryption": "",
             "storageClass": "STANDARD",
             "objectType": "binary/octet-stream"
          }
@@ -176,7 +176,7 @@
             "objectName": "mcs.pdf",
             "lastModifiedDate": "2023-01-05T13:52:02Z",
             "size": 13396173,
-            "serverSideEncryptionEnabled": "AES256",
+            "serverSideEncryption": "AES256",
             "storageClass": "STANDARD",
             "objectType": "application/pdf"
          }
@@ -193,7 +193,7 @@
             "objectName": "AK_SK",
             "lastModifiedDate": "2022-11-28T11:51:17Z",
             "size": 77,
-            "serverSideEncryptionEnabled": "",
+            "serverSideEncryption": "",
             "storageClass": "STANDARD",
             "objectType": "binary/octet-stream"
          }
@@ -210,7 +210,7 @@
             "objectName": "meta-3.png",
             "lastModifiedDate": "2022-11-25T11:02:19Z",
             "size": 57058,
-            "serverSideEncryptionEnabled": "",
+            "serverSideEncryption": "",
             "storageClass": "STANDARD",
             "objectType": "binary/octet-stream"
          }
@@ -225,6 +225,11 @@
       "CreationDate": "2022-11-28T10:01:29Z",
       "Name": "pravin-soda-gcp-jshdsds",
       "region": "ap-south-1"
+   },
+   {
+      "CreationDate": "2023-01-13T06:40:07Z",
+      "Name": "pravin-soda-test222",
+      "region": "ap-northeast-1"
    },
    {
       "CreationDate": "2022-11-20T13:47:47Z",
@@ -252,7 +257,7 @@
             "objectName": "c2.png",
             "lastModifiedDate": "2022-11-24T05:17:15Z",
             "size": 391582,
-            "serverSideEncryptionEnabled": "",
+            "serverSideEncryption": "",
             "versionId": "null",
             "storageClass": "STANDARD_IA",
             "objectType": "image/png"
@@ -261,7 +266,7 @@
             "objectName": "cs103x-notes.pdf",
             "lastModifiedDate": "2023-01-06T10:09:48Z",
             "size": 427167,
-            "serverSideEncryptionEnabled": "",
+            "serverSideEncryption": "",
             "versionId": "7i.AzV.i727aypXANYt8VG_6erMZ94Av",
             "storageClass": "STANDARD",
             "objectType": "application/pdf"
@@ -270,7 +275,7 @@
             "objectName": "nohup.out",
             "lastModifiedDate": "2022-11-25T10:53:25Z",
             "size": 654,
-            "serverSideEncryptionEnabled": "",
+            "serverSideEncryption": "",
             "versionId": "null",
             "storageClass": "STANDARD",
             "objectType": "binary/octet-stream"
